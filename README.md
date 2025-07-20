@@ -11,3 +11,5 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
+
+ECR repo URI: 917735517775.dkr.ecr.eu-north-1.amazonaws.com/chicken-disease-classification-project-repo
